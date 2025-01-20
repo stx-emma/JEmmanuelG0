@@ -12,7 +12,6 @@
 <p align="left">
 </p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=JEmmanuelG0&show_icons=true&locale=en" alt="JEmmanuelG0" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JEmmanuelG0&" alt="JEmmanuelG0" /></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
